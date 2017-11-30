@@ -1,0 +1,7 @@
+﻿  Header.cpp
+c:\users\multiplication\documents\visual studio 2015\thuytun\ctime\test\header.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\multiplication\documents\visual studio 2015\thuytun\ctime\test\header.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\multiplication\documents\visual studio 2015\thuytun\ctime\test\header.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\multiplication\documents\visual studio 2015\thuytun\ctime\test\header.cpp(44): warning C4101: 'temp': unreferenced local variable
+  test.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\ThuyTun\ctime\Debug\test.exe
+  test.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\ThuyTun\ctime\Debug\test.pdb (Full PDB)
