@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.cpp(27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+main.cpp(191): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game console1.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\ThuyTun\Game\x64\Release\Game console1.exe
+  Game console1.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\ThuyTun\Game\x64\Release\Game console1.pdb (Full PDB)

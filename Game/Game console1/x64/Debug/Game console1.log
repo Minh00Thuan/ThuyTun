@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\multiplication\documents\visual studio 2015\thuytun\game\game console1\main.cpp(27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\multiplication\documents\visual studio 2015\thuytun\game\game console1\main.cpp(191): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game console1.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\ThuyTun\Game\x64\Debug\Game console1.exe
+  Game console1.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\ThuyTun\Game\x64\Debug\Game console1.pdb (Full PDB)

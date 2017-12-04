@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.cpp(25): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating code
+  All 81 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\ThuyTun\Game\x64\Release\Game.exe
+  Game.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\ThuyTun\Game\x64\Release\Game.pdb (Full PDB)
