@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game Console", "Game Consol
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game console1", "Game console1\Game console1.vcxproj", "{446C417E-9382-4416-8B7A-362C5964703A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bay", "Bay\Bay.vcxproj", "{8519F86D-EE88-476A-924E-4614EE8C29EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{446C417E-9382-4416-8B7A-362C5964703A}.Release|x64.Build.0 = Release|x64
 		{446C417E-9382-4416-8B7A-362C5964703A}.Release|x86.ActiveCfg = Release|Win32
 		{446C417E-9382-4416-8B7A-362C5964703A}.Release|x86.Build.0 = Release|Win32
+		{8519F86D-EE88-476A-924E-4614EE8C29EB}.Debug|x64.ActiveCfg = Debug|x64
+		{8519F86D-EE88-476A-924E-4614EE8C29EB}.Debug|x64.Build.0 = Debug|x64
+		{8519F86D-EE88-476A-924E-4614EE8C29EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{8519F86D-EE88-476A-924E-4614EE8C29EB}.Debug|x86.Build.0 = Debug|Win32
+		{8519F86D-EE88-476A-924E-4614EE8C29EB}.Release|x64.ActiveCfg = Release|x64
+		{8519F86D-EE88-476A-924E-4614EE8C29EB}.Release|x64.Build.0 = Release|x64
+		{8519F86D-EE88-476A-924E-4614EE8C29EB}.Release|x86.ActiveCfg = Release|Win32
+		{8519F86D-EE88-476A-924E-4614EE8C29EB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

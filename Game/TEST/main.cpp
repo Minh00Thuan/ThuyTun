@@ -2,6 +2,5 @@
 using namespace std;
 void main()
 {
-	char c = 65;
-	cout << c;
+	int a[10][10][10];
 }

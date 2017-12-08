@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\multiplication\documents\visual studio 2015\thuytun\game\bay\main.cpp(24): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Bay.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\ThuyTun\Game\Debug\Bay.exe
+  Bay.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\ThuyTun\Game\Debug\Bay.pdb (Full PDB)
